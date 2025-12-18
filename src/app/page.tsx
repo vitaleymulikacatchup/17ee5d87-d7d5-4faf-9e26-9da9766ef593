@@ -35,7 +35,7 @@ export default function LandingPage() {
             {"name":"About","id":"about"},
             {"name":"Contact","id":"contact"}
           ]}
-          button={{ "text":"Shop Now", "href":"https://linkedin.com" }}
+          button={{ "text":"Shop Now Last", "href":"https://linkedin.com" }}
         />
       </div>
 
@@ -57,7 +57,7 @@ export default function LandingPage() {
         <TextAbout
           title="We bring joy and learning together through quality toys that inspire imagination and creativity in every child."
           useInvertedBackground="noInvert"
-          buttons={[{"text":"Learn More Oke","href":"https://linkedin.com"},
+          buttons={[{"text":"Learn More Oke 2","href":"https://www.linkedin.com"},
             {"text":"Contact Us","href":"#contact"}]}
         />
       </div>
