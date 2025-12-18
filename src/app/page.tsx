@@ -57,10 +57,8 @@ export default function LandingPage() {
         <TextAbout
           title="We bring joy and learning together through quality toys that inspire imagination and creativity in every child."
           useInvertedBackground="noInvert"
-          buttons={[
-            {"text":"Learn More","href":"#products"},
-            {"text":"Contact Us","href":"#contact"}
-          ]}
+          buttons={[{"text":"Learn More Oke","href":"https://linkedin.com"},
+            {"text":"Contact Us","href":"#contact"}]}
         />
       </div>
 
