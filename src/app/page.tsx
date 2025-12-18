@@ -35,10 +35,7 @@ export default function LandingPage() {
             {"name":"About","id":"about"},
             {"name":"Contact","id":"contact"}
           ]}
-          button={{
-            "text":"Shop Now",
-            "href":"products"
-          }}
+          button={{ "text":"Shop Now", "href":"https://linkedin.com" }}
         />
       </div>
 
