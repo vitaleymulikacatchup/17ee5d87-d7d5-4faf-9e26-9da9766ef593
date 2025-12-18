@@ -76,9 +76,7 @@ export default function LandingPage() {
           ]}
           useInvertedBackground="noInvert"
           mediaPosition="left"
-          buttons={[
-            {"text":"Browse Collection","href":"#products"}
-          ]}
+          buttons={[{"text":"Three","href":"https://linkedin.com"}]}
         />
       </div>
 
